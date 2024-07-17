@@ -1,4 +1,4 @@
-#Random Blog for Jesus 
+# Random Blog for Jesus 
 With cool Animation for the Navbar section
 
-##Really straight forward
+## Really straight forward
